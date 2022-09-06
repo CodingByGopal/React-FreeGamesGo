@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# FreeGamesGo : A free PC and Web browser based game collection platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+FreeGamesGo is responsive online game collection platform which provides access to the best free-to-play multiplayer games and MMO Games. You can search any game of your choice based on genre, name and platform. In most of the games, you can view minimum system requirements too in order to play perticular game.
 
-## Available Scripts
+## Development And Optimizations
 
-In the project directory, you can run:
+FreeGamesGo has been developed using React.js and Tailwind css. To give website a morden look react top loading bar and react-loader-spinner has been used. For providing smooth animations, skeleton loading and lazy image loading, Intersection observer Api has been used.
 
-### `npm start`
+## Resource
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Font: https://fonts.google.com/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Icons: https://fontawesome.com/
 
-### `npm test`
+Images: https://www.pexels.com/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Favicon: https://realfavicongenerator.net/
 
-### `npm run build`
+Color Palettes: https://coolors.co/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Image design: https://www.adobe.com/express/create/banner
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Tinst and shades: https://maketintsandshades.com/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Image handling: (compress,resize etc.): https://squoosh.app/
 
-### `npm run eject`
+Features Check: https://caniuse.com/
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Client:** React, TailwindCSS
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Packages:** react-router-dom, react-top-loading-bar, react-loader-spinner, lodash.debounce
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Run Locally
 
-## Learn More
+Install dependencies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+  npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Start the server
 
-### Code Splitting
+```bash
+  npm run start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
 
-### Analyzing the Bundle Size
+## Preview
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Hero](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/070ca17858f7c7401bc73fadce2f897289a30d22/freegamesgo-hero.png)
 
-### Making a Progressive Web App
+![Popular games](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/070ca17858f7c7401bc73fadce2f897289a30d22/freegamesgo-games-popular.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Game List](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/070ca17858f7c7401bc73fadce2f897289a30d22/freegamesgo-games-all.png)
 
-### Advanced Configuration
+![Single Game](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/070ca17858f7c7401bc73fadce2f897289a30d22/freegamesgo-single-game.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Hi, my name is Gopal ji! 👋
 
-### Deployment
+![developer](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/070ca17858f7c7401bc73fadce2f897289a30d22/freegamesgo-dev.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🚀 About Me
 
-### `npm run build` fails to minify
+I'm a front-end web developer. I'm the developer of FreeGamesGo Website.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🛠 Skills
+
+Javascript, HTML, CSS, React.js, Tailwind css
