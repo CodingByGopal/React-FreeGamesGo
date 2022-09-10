@@ -49,17 +49,17 @@ Start the server
 
 ## Preview
 
-![Hero](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/070ca17858f7c7401bc73fadce2f897289a30d22/freegamesgo-hero.png)
+![Hero](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/c978ebbbaafdc6e3e647a38ccd03efb2c16d492a/FreeGamesGo-New-Hero.png)
 
 ![Popular games](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/070ca17858f7c7401bc73fadce2f897289a30d22/freegamesgo-games-popular.png)
 
-![Game List](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/070ca17858f7c7401bc73fadce2f897289a30d22/freegamesgo-games-all.png)
+![Game List](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/c978ebbbaafdc6e3e647a38ccd03efb2c16d492a/FreeGamesGo-New-AllGames.png)
 
 ![Single Game](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/070ca17858f7c7401bc73fadce2f897289a30d22/freegamesgo-single-game.png)
 
 # Hi, my name is Gopal ji! 👋
 
-![developer](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/070ca17858f7c7401bc73fadce2f897289a30d22/freegamesgo-dev.png)
+![developer](https://raw.githubusercontent.com/CodingByGopal/imagesAsLink/c978ebbbaafdc6e3e647a38ccd03efb2c16d492a/FreeGamesGo-New-Developer-IMG.png)
 
 ## 🚀 About Me
 
