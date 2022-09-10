@@ -4,8 +4,7 @@ FreeGamesGo is a responsive online game collection platform that provides access
 
 
 ## Development And Optimizations
-
-FreeGamesGo has been developed using React.js and Tailwind css. To give website a morden look react top loading bar and react-loader-spinner has been used. For providing smooth animations, skeleton loading and lazy image loading, Intersection observer Api has been used.
+FreeGamesGo has been developed using React.js and Tailwind CSS. To give the website a modern look react top loading bar and react-loader-spinner have been used. For providing smooth animations, skeleton loading, and lazy image loading, Intersection observer API has been used.
 
 ## Resource
 
