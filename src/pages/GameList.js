@@ -60,9 +60,9 @@ const GameList = ({ setProgress }) => {
         </h1>
         <p className=" md:text-base text-sm text-slate-300">
           Get yourself the best experience with FreeGamesGo where you can find
-          multiple game as per your taste. You can search the game based on
+          multiple games as per your taste. You can search the game based on
           name, genre (MMORPG, Strategy, Shooter, Sports, Moba, Fighting, Card
-          Game , Battle Royale, Racing, Social, Fantasy) and platform like PC
+          Game, Battle Royale, Racing, Social, Fantasy), and platforms like PC
           and Web Browser.
         </p>
         <p className="mb-10 text-slate-300 moveRightAnimation"></p>

@@ -1,9 +1,9 @@
 # FreeGamesGo : A free PC and Web browser based game collection platform
 
-FreeGamesGo is a responsive online game collection platform that provides access to the best free-to-play multiplayer games and MMO Games. You can search for any game of your choice based on genre, name, and platform. In most of the games, you can view minimum system requirements too in order to play perticular game.
-
+FreeGamesGo is a responsive online game collection platform that provides access to the best free-to-play multiplayer games and MMO Games. You can search for any game of your choice based on genre, name, and platform. In most of the games, you can view minimum system requirements too in order to play a particular game.
 
 ## Development And Optimizations
+
 FreeGamesGo has been developed using React.js and Tailwind CSS. To give the website a modern look react top loading bar and react-loader-spinner have been used. For providing smooth animations, skeleton loading, and lazy image loading, Intersection observer API has been used.
 
 ## Resource

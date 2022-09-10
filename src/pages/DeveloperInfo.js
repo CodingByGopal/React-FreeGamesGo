@@ -60,10 +60,11 @@ const DeveloperInfo = ({ setProgress }) => {
               <h1 className="moveBottomAnimation mb-5 md:text-7xl text-4xl font-semibold ">
                 Hello
               </h1>
-              <p className="    md:text-lg text-base md:mb-10 mb-5">
-                My name is Gopal Ji, I'm front-end web developer. I created
-                FreeGamesGo website to provide a platform for all free to play
-                available games. I created FreeGamesGo using{" "}
+
+              <p className="md:text-lg text-base md:mb-10 mb-5">
+                My name is Gopal Ji, I'm a front-end web developer. I created
+                the FreeGamesGo website to provide a platform for all
+                free-to-play available games. I created FreeGamesGo using
                 <a
                   className="  text-blue-500 border-b border-transparent hover:border-blue-500"
                   target="_blank"
@@ -80,12 +81,13 @@ const DeveloperInfo = ({ setProgress }) => {
                   href="https://www.freetogame.com/api-doc"
                 >
                   here
-                </a>
-                . Website is completely free to use and to use it, there is no
-                sign up require however you will be asked to do sign up if you
-                want to play some games. Sign up will only be asked by offical
-                website or provider of game not from FreeGamesGo. If you have
-                any further query, get in touch with me on these social links.
+                </a>{" "}
+                . The website is completely free to use and to use it, there is
+                no sign-up required however you will be asked to sign up if you
+                want to play some games. Sign-up will only be asked by the
+                official website or provider of the game, not from FreeGamesGo.
+                If you have any further queries, get in touch with me on these
+                social links.
               </p>
 
               <div className="  flex gap-7 pb-6 md:justify-start justify-evenly ">
