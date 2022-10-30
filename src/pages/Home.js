@@ -42,7 +42,7 @@ const Home = ({ setProgress }) => {
             <LazyImg
               placeholderSrc={gamePlc}
               src={image}
-              otherClasses="object-cover moveBottomAnimation object-center rounded-xl shadow-2xl"
+              otherClasses="object-cover  object-center rounded-xl shadow-2xl"
               errorImg={image}
             />
           </div>
