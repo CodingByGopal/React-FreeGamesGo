@@ -20,7 +20,7 @@ const DeveloperInfo = ({ setProgress }) => {
 
   const socialData = [
     {
-      link: "https://www.linkedin.com/in/gopal-ji-470753218/",
+      link: "https://www.linkedin.com/in/gopal-ji",
       icon: <i title="linkedin" className="  fa-brands fa-linkedin"></i>,
     },
     {
@@ -64,7 +64,7 @@ const DeveloperInfo = ({ setProgress }) => {
               <p className="md:text-lg text-base md:mb-10 mb-5">
                 My name is Gopal Ji, I'm a front-end web developer. I created
                 the FreeGamesGo website to provide a platform for all
-                free-to-play available games. I created FreeGamesGo using
+                free-to-play available games. I created FreeGamesGo using{" "}
                 <a
                   className="  text-blue-500 border-b border-transparent hover:border-blue-500"
                   target="_blank"

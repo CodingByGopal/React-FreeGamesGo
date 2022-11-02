@@ -47,11 +47,11 @@ const Home = ({ setProgress }) => {
             />
           </div>
           <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-10 flex flex-col md:items-start md:text-left items-center text-center">
-            <h1 className=" moveLeftAnimation text-2xl lg:text-5xl md:text-4xl mb-6 font-bold text-gray-50">
+            <h1 className="  text-2xl lg:text-5xl md:text-4xl mb-6 font-bold text-gray-50">
               FreeGamesGo : A free PC and Web browser-based game collection
               platform
             </h1>
-            <p className="mb-6 moveRightAnimation md:text-lg text-gray-400 leading-relaxed">
+            <p className="mb-6  md:text-lg text-gray-400 leading-relaxed">
               FreeGamesGo provides access to the best free-to-play multiplayer
               games and MMO Games. You can search for any game of your choice
               based on genre, name, and platform. In most of the games, You can
@@ -61,14 +61,14 @@ const Home = ({ setProgress }) => {
             <div className="mt-3  flex md:flex-row gap-3 flex-col ">
               <button
                 onClick={() => navigate("/allgames")}
-                className=" moveBottomAnimation  text-white shadow-2xl  bg-slate-600 border-0 py-2  px-6 focus:outline-none hover:bg-slate-700 rounded-md text-sm transition duration-200"
+                className="   text-white shadow-2xl  bg-slate-600 border-0 py-2  px-6 focus:outline-none hover:bg-slate-700 rounded-md text-sm transition duration-200"
               >
                 Start Exploring
               </button>
 
               <button
                 onClick={() => scrollToSection(popularGames)}
-                className=" moveBottomAnimation text-slate-800 hover:bg-slate-300 bg-slate-200  shadow-2xl  border-0 py-2 px-6  focus:outline-none  rounded-md text-sm transition-all duration-200"
+                className="  text-slate-800 hover:bg-slate-300 bg-slate-200  shadow-2xl  border-0 py-2 px-6  focus:outline-none  rounded-md text-sm transition-all duration-200"
               >
                 Learn More &darr;
               </button>
